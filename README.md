@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Shaw</h1>
 <h3 align="center">I'm a B.Tech 4th student</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d99cd724da9e41be0cb84979683caed784d3bda5&rid=giphy.gif&ct=g">
+<img align = "right" alt = "Coding" width = "400" src = "[https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d99cd724da9e41be0cb84979683caed784d3bda5&rid=giphy.gif&ct=g](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXNwN3U4b3hya2d5MHYzZXdqM3YwaXBqYmU5eHV4NDhuamJjb3hrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragshaw&label=Profile%20views&color=0e75b6&style=flat" alt="anuragshaw" /> </p>
 
