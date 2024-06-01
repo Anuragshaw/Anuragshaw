@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Shaw</h1>
 <h3 align="center">I'm a B.Tech 4th student</h3>
-<img align = "right" alt = "Coding" width = "400" src = <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>>
+<img align = "right" alt = "Coding" width = "400" src = "https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611d99cd724da9e41be0cb84979683caed784d3bda5&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragshaw&label=Profile%20views&color=0e75b6&style=flat" alt="anuragshaw" /> </p>
 
